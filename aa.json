@@ -1,0 +1,23 @@
+{
+	"code": 1000,
+	"msg": "",
+	"data": [{
+		"CID": 0,
+		"symbol": "BTC",
+		"cmc_symbol": "bitcoin",
+		"latest": 6437.83077876688,
+		"update": 1539571270
+	},{
+		"CID": 1,
+		"symbol": "ETH",
+		"cmc_symbol": "ETH",
+		"latest": 6437.83077876688,
+		"update": 1539571270
+	},{
+		"CID": 2,
+		"symbol": "BNB",
+		"cmc_symbol": "BNB",
+		"latest": 6437.83077876688,
+		"update": 1539571270
+	}]
+}
